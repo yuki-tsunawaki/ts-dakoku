@@ -5,22 +5,22 @@
   "env": {
     "SALESFORCE_CLIENT_ID": {
       "description":
-        "接続アプリケーションのコンシューマ鍵。SalesForce の設定より ビルド > 作成 > アプリケーション 画面より追加します"
+        "3MVG9ZL0ppGP5UrC.zB9ts7PFa8iEZPMo9zaWn5tFFJ_we3.ZbaV6fMwiaf3ppTmXnFgH6h.axxQNIiFUZxsU"
     },
     "SALESFORCE_CLIENT_SECRET": {
-      "description": "接続アプリケーションのコンシューマ秘密鍵"
+      "description": "FE385233411C06C7968D781DDC3912E92CCC7F1D4FF0ACD3E095B67F10B2A477"
     },
     "SLACK_CLIENT_ID": {
-      "description": "Slack のコンシューマ鍵"
+      "description": "276309517494.1622722348022"
     },
     "SLACK_CLIENT_SECRET": {
-      "description": "Slack のコンシューマ秘密鍵"
+      "description": "cc11ee1492197cb65d8f3aca2d9d30e1"
     },
     "SLACK_VERIFICATION_TOKEN": {
-      "description": "Slack アプリケーション の Verification Token"
+      "description": "5ceec60b62d693f471371cd37873c4fd"
     },
     "TEAMSPIRIT_HOST": {
-      "description": "TeamSpirit のホスト名"
+      "description": "teamspirit-3601"
     },
     "TZ": "Asia/Tokyo"
   },
